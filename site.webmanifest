@@ -1,0 +1,13 @@
+{
+  "name": "Talrine",
+  "short_name": "Talrine",
+  "description": "Talrine Platform official website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0c1730",
+  "icons": [
+    { "src": "/assets/talrine-apple-touch-icon-v1.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/talrine-icon-v4-square.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
